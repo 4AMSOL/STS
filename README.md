@@ -13,11 +13,19 @@ Perfect for traders, investors, and blockchain enthusiasts looking to make infor
 ## Prerequisites
 
 Python: The script is written in Python, so you'll need Python installed on your system.
+
 Tkinter: This is the GUI library used for the application. It's usually included with Python installations.
+
 Requests library: Used for making HTTP requests to fetch token data.
+
 PyCoingecko library: Used to interact with the CoinGecko API for additional token information.
+
 Internet connection: Required to fetch real-time data from DexScreener and CoinGecko APIs.
+
 Basic understanding of Solana blockchain and tokens: While not strictly necessary to run the application, it would be helpful for interpreting the results.
+
 To install the required Python libraries, you can use pip:
+
 pip install requests pycoingecko
+
 Note that you may need to prefix this command with 'python -m' or 'python3 -m' depending on your system configuration.
